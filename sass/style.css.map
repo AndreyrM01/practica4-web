@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,aAAa,CAAA;EACT,OAAO,EAAE,IAAI;CAChB;;AEFD,AAAA,aAAa,CAAA;EACX,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,MAAM;CACd;;AHED,AAAA,IAAI,CAAA;EACF,MAAM,EAAE,MAAM;CACf",
+    "sources": [
+        "style.scss",
+        "components/_featued--card.scss",
+        "components/_featured--btn.scss",
+        "components/_featured--h1.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}

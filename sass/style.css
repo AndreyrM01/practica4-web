@@ -1,0 +1,15 @@
+.featured--ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.featured--h1 {
+  font-size: 50px;
+  color: purple;
+}
+
+body {
+  margin: 0 auto;
+}
+/*# sourceMappingURL=style.css.map */
